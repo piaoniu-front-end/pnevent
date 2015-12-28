@@ -1,0 +1,19 @@
+{
+  "name": "pnevent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piaoniu-front-end/pnevent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piaoniu-front-end/pnevent/issues"
+  },
+  "homepage": "https://github.com/piaoniu-front-end/pnevent#readme"
+}
